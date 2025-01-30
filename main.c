@@ -1,8 +1,8 @@
 #if 0
-	Mau ngapain ngab? Tinggal pake aja
-	apa susahnya euy!
+	Mau ngapain ngab? ya rename 
+		lah kocak
 
-	Script by Sanz - Yt : FREE TUTORIAL
+	Script by Lordd - Yt : Lordd
 #endif
 
 static  char data [] = 
